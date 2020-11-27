@@ -18,4 +18,5 @@ A user wants to access the hello translation for a specific language, Cambodian,
 
 ```js
 "/ex-2/greeting/cambodian";
+
 ```
